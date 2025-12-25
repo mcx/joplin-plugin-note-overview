@@ -106,7 +106,7 @@ sort: title DESC
 
 Several of these blocks can be included in one note, also between text.
 
-The note content is updated every x minutes (depending on your setting) or manualy by `Tools > Create Note overview`.
+The note content is updated every x minutes (depending on your setting) or manualy by `Tools > Update Note overview`.
 
 ### Limitations
 
